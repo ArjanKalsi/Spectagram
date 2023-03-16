@@ -1,1 +1,1 @@
-# Spectagram
+# ST-82-Boilerplate
